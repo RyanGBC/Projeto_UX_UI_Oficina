@@ -1,0 +1,2 @@
+# Projeto_UX_UI_Oficina
+ Colaborei ativamente em um projeto de design web na Universidade Unipiaget, envolvendo mais de 8 colaboradores, utilizando o Figma. Desenvolvemos uma experiência de usuário (UX) e interface do usuário (UI) inovadoras para uma oficina localizada na região de São Paulo. A equipe trabalhou colaborativamente para criar um design web consistente e visualmente atrativo. Minha participação destaca não apenas habilidades técnicas, mas também a capacidade de contribuir efetivamente em equipes numerosas, criando soluções específicas para a região da oficina.
